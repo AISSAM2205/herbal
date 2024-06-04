@@ -1,0 +1,12 @@
+{
+  "scripts": {
+		"instal": "npm install && cd backend && npm install",
+    "start": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "node backend/server.js",
+    "frontend": "npx http-server ./ -p 3000 --cors"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "http-server": "^14.1.1"
+  }
+}

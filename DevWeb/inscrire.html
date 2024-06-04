@@ -1,0 +1,52 @@
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/styles/inscrire.css" />
+    <title>S'inscrire | Plantes Médicinales</title>
+
+    <link
+      rel="shortcut icon"
+      href="./assets/images//favicon.ico"
+      type="image/x-icon"
+    />
+    <script src="./assets/scripts/inscrire.js"></script>
+  </head>
+  <body>
+    <div class="topbar">
+      <nav>
+        <div class="logo">Plantes Médicinales</div>
+        <div class="nav-items">
+          <a href="index.html">ACCUEIL</a>
+          <a href="shop.html">SHOP</a>
+          <a href="a-propos.html">A PROPOS</a>
+          <a href="faq.html">FAQ</a>
+          <a href="connexion.html">Connectez-vous</a>
+        </div>
+      </nav>
+    </div>
+    <div class="container">
+      <h1>S'inscrire</h1>
+      <form id="registrationForm">
+        <label for="username">Nom d'utilisateur</label>
+        <input type="text" id="username" name="username" required />
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="password">Mot de passe</label>
+        <input type="password" id="password" name="password" required />
+
+        <label for="confirmPassword">Confirmer le mot de passe</label>
+        <input
+          type="password"
+          id="confirmPassword"
+          name="confirmPassword"
+          required
+        />
+
+        <button type="submit">S'inscrire</button>
+      </form>
+    </div>
+  </body>
+</html>
