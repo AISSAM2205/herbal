@@ -14,6 +14,7 @@
     1. [Development Environment](#development-environment)
     2. [File Structure](#file-structure)
 4. [Acknowledgements](#acknowledgements)
+5. [Contributors](#contributors)
 
 ## Introduction
 
@@ -83,3 +84,14 @@ The project is organized into the following files and directories:
 ## Acknowledgements
 
 We would like to express our deep gratitude for your exceptional guidance throughout this project. Your expertise, availability, and valuable advice were crucial to the success of this endeavor. Your patient and insightful supervision has been a source of inspiration and motivation. Thank you for your trust and dedication. The skills and knowledge gained under your supervision will be invaluable for the future.
+
+## Contributors
+
+Réalisé par :
+- SOUFIANE BOUCHDA
+- EL HOUSSAINE AIT ALI OUSAUD
+- NASERDDINE EL AZZOUZI
+- AISSAM BOUTAIB
+
+Encadré par : 
+- Mr. HAMLAOUI
