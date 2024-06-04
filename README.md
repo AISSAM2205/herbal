@@ -88,7 +88,7 @@ The project is organized into the following files and directories:
 We would like to express our deep gratitude for your exceptional guidance throughout this project. Your expertise, availability, and valuable advice were crucial to the success of this endeavor. Your patient and insightful supervision has been a source of inspiration and motivation. Thank you for your trust and dedication. The skills and knowledge gained under your supervision will be invaluable for the future.
 
 https://drive.google.com/file/d/1EqFra6UWZ9nbdUDUoTrgvdYY3PCeGfH9/view?usp=sharing
-[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1EqFra6UWZ9nbdUDUoTrgvdYY3PCeGfH9/view?usp=sharing)
+[![Watch the demo](DevWeb/assets/images/demo.png)](https://drive.google.com/file/d/1EqFra6UWZ9nbdUDUoTrgvdYY3PCeGfH9/view?usp=sharing)
 
 ## Contributors
 
