@@ -81,6 +81,8 @@ The project is organized into the following files and directories:
     - A backend server using Express, managing a SQLite database to store information about herbs.
     - A package file configuring all dependencies and scripts necessary for managing the Node.js application, facilitating development and deployment.
 
+![technologies](DevWeb/assets/images/technologies.png)
+
 ## Acknowledgements
 
 We would like to express our deep gratitude for your exceptional guidance throughout this project. Your expertise, availability, and valuable advice were crucial to the success of this endeavor. Your patient and insightful supervision has been a source of inspiration and motivation. Thank you for your trust and dedication. The skills and knowledge gained under your supervision will be invaluable for the future.
