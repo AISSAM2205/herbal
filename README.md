@@ -14,7 +14,8 @@
     1. [Development Environment](#development-environment)
     2. [File Structure](#file-structure)
 4. [Acknowledgements](#acknowledgements)
-5. [Contributors](#contributors)
+5. [Demo Video](#demo-video)
+6. [Contributors](#contributors)
 
 ## Introduction
 
@@ -90,7 +91,7 @@ We would like to express our deep gratitude for your exceptional guidance throug
 
 ## Demo Video
 https://drive.google.com/file/d/1EqFra6UWZ9nbdUDUoTrgvdYY3PCeGfH9/view?usp=sharing
-[![Watch the demo](DevWeb/assets/images/demo.png)](https://drive.google.com/file/d/1EqFra6UWZ9nbdUDUoTrgvdYY3PCeGfH9/view?usp=sharing)
+[![Watch the demo](DevWeb/assets/images/demovid.png)](https://drive.google.com/file/d/1EqFra6UWZ9nbdUDUoTrgvdYY3PCeGfH9/view?usp=sharing)
 
 ## Contributors
 
